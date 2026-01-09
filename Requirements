@@ -1,0 +1,24 @@
+
+---
+
+# 🧪 What Happens Behind the Scenes
+
+✔️ Checks Docker  
+✔️ Clones repo  
+✔️ Starts OpenWebUI + Ollama  
+✔️ Pulls model  
+✔️ Ready to use  
+
+---
+
+# 🔥 Optional (Next-Level Improvements)
+
+If you want, I can:
+- Add **GPU auto-detection**
+- Support **multiple models**
+- Add **Windows (PowerShell) installer**
+- Add **uninstall script**
+- Add **versioned releases**
+- Convert this into a **startup-grade installer**
+
+Just tell me what level you want next 🚀
