@@ -1,0 +1,5 @@
+.env
+ollama_data/
+*.gguf
+*.bin
+*.safetensors
